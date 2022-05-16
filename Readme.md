@@ -1,8 +1,8 @@
-# Chinese Text Correction Papers
+# Text Correction Papers
 
 ![](https://img.shields.io/github/last-commit/nghuyong/Chinese-text-correction-papers?color=green)  ![](https://img.shields.io/badge/PRs-Welcome-red) 
 
-This repo aims to keep tracking related work in Chinese text correction, including Chinese Spell Checking (CSC) and Chinese Grammatical Error Correction (CGEC).
+This repo aims to keep tracking related work in text correction, including Chinese Spell Checking (CSC) and Grammatical Error Correction (GEC).
 Welcome to contribute!
 
 ## 2022
@@ -11,6 +11,8 @@ Welcome to contribute!
 - **“Is Whole Word Masking Always Better for Chinese BERT?”: Probing on Chinese Grammatical Error Correction** ACL2022 [[pdf](https://arxiv.org/pdf/2203.00286.pdf)] ![](https://img.shields.io/badge/CGEC-blue)
 
 - **The Past Mistake is the Future Wisdom: Error-driven Contrastive Probability Optimization for Chinese Spell Checking** ACL2022 [[pdf](https://arxiv.org/pdf/2203.00991.pdf)] ![](https://img.shields.io/badge/CSC-green)
+
+- **Improving the Efficiency of Grammatical Error Correction with Erroneous Span Detection and Correction** ACL2022 [[pdf](https://arxiv.org/pdf/2010.03260.pdf)] ![](https://img.shields.io/badge/CGEC-blue)
 
 - **General and Domain Adaptive Chinese Spelling Check with Error Consistent Pretraining** preprint [[pdf](https://arxiv.org/pdf/2203.10929.pdf)] [[code](https://github.com/Aopolin-Lv/ECSpell)] ![](https://img.shields.io/badge/CSC-green)
 
@@ -24,6 +26,16 @@ Welcome to contribute!
 - **PLOME: Pre-training with Misspelled Knowledge for Chinese Spelling Correction** ACL2021 [[pdf](https://aclanthology.org/2021.acl-long.233)] [[code](https://github.com/liushulinle/PLOME)] ![](https://img.shields.io/badge/CSC-green)
 
 - **Exploration and Exploitation: Two Ways to Improve Chinese Spelling Correction Models** ACL2021 [[pdf](https://aclanthology.org/2021.acl-short.56)] [[code](https://github.com/FDChongli/TwoWaysToImproveCSC)] ![](https://img.shields.io/badge/CSC-green)
+
+- **PHMOSpell: Phonological and Morphological Knowledge Guided Chinese Spelling Check** ACL2021 [[pdf](https://aclanthology.org/2021.acl-long.464.pdf)]  ![](https://img.shields.io/badge/CSC-green)
+
+- **Global Attention Decoder for Chinese Spelling Error Correction** ACL2021 [[pdf](https://aclanthology.org/2021.findings-acl.122.pdf)] ![](https://img.shields.io/badge/CSC-green)
+
+- **Dynamic Connected Networks for Chinese Spelling Check** ACL2021 [[pdf](https://aclanthology.org/2021.findings-acl.216.pdf)] ![](https://img.shields.io/badge/CSC-green)
+
+- **A Simple Recipe for Multilingual Grammatical Error Correction** ACL2021 [[pdf](https://aclanthology.org/2021.acl-short.89.pdf)] ![](https://img.shields.io/badge/CGEC-blue)
+
+- **Grammatical Error Correction as GAN-like Sequence Labeling** ACL2021 [[pdf](https://arxiv.org/pdf/2105.14209.pdf)] ![](https://img.shields.io/badge/CGEC-blue)
 
 - **Instantaneous Grammatical Error Correction with Shallow Aggressive Decoding** ACL2021 [[pdf](https://aclanthology.org/2021.acl-long.462.pdf)] [[code](https://github.com/AutoTemp/Shallow-Aggressive-Decoding)] ![](https://img.shields.io/badge/CGEC-blue)
 
