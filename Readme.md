@@ -8,7 +8,7 @@ Welcome to contribute!
 ## 2022
 - **CRASpell: A Contextual Typo Robust Approach to Improve Chinese Spelling Correction** ACL2022  [[pdf](https://aclanthology.org/2022.findings-acl.237.pdf)] [[code](https://github.com/liushulinle/CRASpell)] ![](https://img.shields.io/badge/CSC-green)
 
-- **MDCSpell: A Multi-task Detector-Corrector Framework for Chinese Spelling Correction** ACL2022 ![](https://img.shields.io/badge/CSC-green)
+- **MDCSpell: A Multi-task Detector-Corrector Framework for Chinese Spelling Correction** ACL2022 [[pdf](https://aclanthology.org/2022.findings-acl.98.pdf)] ![](https://img.shields.io/badge/CSC-green)
 
 - **The Past Mistake is the Future Wisdom: Error-driven Contrastive Probability Optimization for Chinese Spell Checking** ACL2022 [[pdf](https://arxiv.org/pdf/2203.00991.pdf)] ![](https://img.shields.io/badge/CSC-green)
 
