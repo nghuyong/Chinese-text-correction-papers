@@ -6,6 +6,15 @@ This repo aims to keep tracking related work in text correction, including Chine
 Welcome to contribute!
 
 ## 2022
+
+- **Non-Autoregressive Chinese ASR Error Correction with Phonological Training** [[pdf](https://aclanthology.org/2022.naacl-main.432.pdf)] ![](https://img.shields.io/badge/CSC-green)
+
+- **MuCGEC: a Multi-Reference Multi-Source Evaluation Dataset for Chinese Grammatical Error Correction** [[pdf](https://aclanthology.org/2022.naacl-main.227.pdf)] [[code](https://github.com/HillZhang1999/MuCGEC)] ![](https://img.shields.io/badge/GEC-blue) ![](https://img.shields.io/badge/dataset-yellowgreen) 
+
+- **ErAConD: Error Annotated Conversational Dialog Dataset for Grammatical Error Correction** NAACL2022 [[pdf](https://arxiv.org/pdf/2112.08466.pdf)] [[code](https://github.com/yuanxun-yx/eracond)] ![](https://img.shields.io/badge/GEC-blue) ![](https://img.shields.io/badge/dataset-yellowgreen) 
+
+- **Frustratingly Easy System Combination for Grammatical Error Correction** NAACL2022 [[pdf](https://aclanthology.org/2022.naacl-main.143.pdf)] [[code](https://github.com/nusnlp/esc)] ![](https://img.shields.io/badge/GEC-blue)
+
 - **CRASpell: A Contextual Typo Robust Approach to Improve Chinese Spelling Correction** ACL2022  [[pdf](https://aclanthology.org/2022.findings-acl.237.pdf)] [[code](https://github.com/liushulinle/CRASpell)] ![](https://img.shields.io/badge/CSC-green)
 
 - **MDCSpell: A Multi-task Detector-Corrector Framework for Chinese Spelling Correction** ACL2022 [[pdf](https://aclanthology.org/2022.findings-acl.98.pdf)] ![](https://img.shields.io/badge/CSC-green)
