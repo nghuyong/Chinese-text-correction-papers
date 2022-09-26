@@ -6,7 +6,6 @@ This repo aims to keep tracking related work in text correction, including Chine
 Welcome to contribute!
 
 ## 2022
-
 - **Non-Autoregressive Chinese ASR Error Correction with Phonological Training** NAACL2022 [[pdf](https://aclanthology.org/2022.naacl-main.432.pdf)] ![](https://img.shields.io/badge/CSC-green) ![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fa55a3e5ef5ae5004d9f03bb67e1a577d95274272%3Ffields%3DcitationCount)
 
 - **MuCGEC: a Multi-Reference Multi-Source Evaluation Dataset for Chinese Grammatical Error Correction** NAACL2022 [[pdf](https://aclanthology.org/2022.naacl-main.227.pdf)] [[code](https://github.com/HillZhang1999/MuCGEC)] ![](https://img.shields.io/badge/GEC-blue) ![](https://img.shields.io/badge/dataset-yellowgreen) ![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F7733c1117fa243c92007b2a6d45137d94d7dce77%3Ffields%3DcitationCount)
@@ -14,6 +13,8 @@ Welcome to contribute!
 - **ErAConD: Error Annotated Conversational Dialog Dataset for Grammatical Error Correction** NAACL2022 [[pdf](https://arxiv.org/pdf/2112.08466.pdf)] [[code](https://github.com/yuanxun-yx/eracond)] ![](https://img.shields.io/badge/GEC-blue) ![](https://img.shields.io/badge/dataset-yellowgreen) ![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F790327fd7eb49d76382180ed34cbfc0aeb05f11b%3Ffields%3DcitationCount)
 
 - **Frustratingly Easy System Combination for Grammatical Error Correction** NAACL2022 [[pdf](https://aclanthology.org/2022.naacl-main.143.pdf)] [[code](https://github.com/nusnlp/esc)] ![](https://img.shields.io/badge/GEC-blue) ![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F18e3ab67607e4fef59195497ba0d296826262670%3Ffields%3DcitationCount)
+
+- **Improving Chinese Grammatical Error Detection via Data augmentation by Conditional Error Generation** ACL2022 [[pdf](https://aclanthology.org/2022.findings-acl.233.pdf)] ![](https://img.shields.io/badge/GEC-blue) ![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F777c3440e8eff82f26250713290b664869db5de0%3Ffields%3DcitationCount)
 
 - **CRASpell: A Contextual Typo Robust Approach to Improve Chinese Spelling Correction** ACL2022  [[pdf](https://aclanthology.org/2022.findings-acl.237.pdf)] [[code](https://github.com/liushulinle/CRASpell)] ![](https://img.shields.io/badge/CSC-green) ![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Fa77d34655475fd6eac0ae6ab724a3bd4b36102a6%3Ffields%3DcitationCount)
 
